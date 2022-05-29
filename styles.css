@@ -56,11 +56,11 @@ body {
 .search {
   font-size: 1rem;
   border: 1px solid #ededed;
-  padding: 0.85rem 3rem;
+  padding: 0.8rem 3rem;
   border-radius: 2rem;
   width: 54%;
 }
 
 .search:hover {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
 }
